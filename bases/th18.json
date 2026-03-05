@@ -1,17 +1,33 @@
 {
- "townhall": 18,
- "recommended_bases": [
-  {
-   "type": "war",
-   "link": "https://link.clashofclans.com/?action=OpenLayout&id=TH18AAA"
-  },
-  {
-   "type": "legend",
-   "link": "https://link.clashofclans.com/?action=OpenLayout&id=TH18BBB"
-  },
-  {
-   "type": "farming",
-   "link": "https://link.clashofclans.com/?action=OpenLayout&id=TH18CCC"
-  }
- ]
+    "townhall": 18,
+    "recommended_bases": [
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18:WB:AAAAPwAAAAJIvAZ4TkmnZ2oEhx5L95_H"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18:WB:AAAAKgAAAAKMm8msz5XqG1QGEKLtP07t"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18:WB:AAAAGQAAAAKinsC4jqpLQGFOBNrzziIo"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18:WB:AAAAQgAAAAJBX-meWDxo8qJGH5l_Ps3E"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18:HV:AAAAEwAAAAKxnS-PMPOTxgBrTH7P22Ie"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18:WB:AAAASQAAAAINb0xhlWBODlM2aJUum7qh"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH18:WB:AAAAOQAAAAJZnDKzW5euXNlN33IiPWx7"
+        }
+    ]
 }

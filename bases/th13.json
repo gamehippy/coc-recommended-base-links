@@ -1,0 +1,37 @@
+{
+    "townhall": 13,
+    "recommended_bases": [
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH13:WB:AAAAKAAAAAIy6UI25JM949RuEl3tMTOD"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH13:WB:AAAAOAAAAAJeAiwAD0QT7-RI-g71D9hd"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH13:WB:AAAAOAAAAAJRHI7gwdRubRkHdDRjr-BS"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH13:HV:AAAAHwAAAAKKJbzFiYwX85hbbcqgLg1p"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH13:HV:AAAAVAAAAAHc6rjQFQQOJqXGLIofjXgp"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH13:WB:AAAADgAAAALD_qwuAuh8W7kJOUYmZtPd"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH13:WB:AAAAKgAAAAKCe5Ti01dEREJwDOH0kADD"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH13:WB:AAAAQQAAAAI_AFm7sZZQOkZFemwPEL3-"
+        }
+    ]
+}

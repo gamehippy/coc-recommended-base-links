@@ -1,0 +1,205 @@
+{
+    "townhall": 10,
+    "recommended_bases": [
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAMwAAAAIQP-RqEn1qzjaIu5t5ZhUt"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAASwAAAAHytnzG7frOgdVae7FGL5M1"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAASwAAAAHytop66PWuYwpnJBPXqfXg"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAASwAAAAHyto3yzdTw5l0F0taOzXrk"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAASwAAAAHo-jmO9qiA0HpCl_EG5-jv"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAASwAAAAHo-jqWLeCCJXY0RF1tMdEb"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/nl?action=OpenLayout&id=TH10:WB:AAAAQwAAAAHBl1bDiafSXYFNyiwz5OG0"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdNfQs2eFQGfLkZYVWXw8"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdNmiLfwEOsUrCXb31pTu"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdNobJy2dVgZ0hswqQqvB"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdO66RLoWxQvRFURvv_Al"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdO9MHCZcNtRbotgRVIBg"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdO_EWRHfos9rU7sEDTEX"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAAQAAAAAISdPBZlXFBQJGdzIuCRzdh"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAAQAAAAAISdPDPrcHGxvNWpBbx-v5g"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdQ0uWUWRQTXCzAGfKxHt"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdQ3g1rcHmlW9zDoEtWgT"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdQ5pzjWT4Z0_OVbpGLRo"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAAQAAAAAISdQ89aHk1hAjm5rQ9c8eM"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAAQAAAAAISdQ_rBloBZeVShkADD_Xu"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAAQAAAAAISdRCPnzrkzdYcDVCSikxg"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAAQAAAAAISdRFX4Vu8KhaqDLyt4OcE"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdTlzt8JM1ZV6knxGorcv"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdULTsgSpE-BMYwdjDpm9"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdUObwgBHU76Nhoc-Nk2l"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:HV:AAAAQAAAAAISdURdmTuvKYsYhkZzowHI"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH10:WB:AAAAQAAAAAISdUUMuGNSWOIwDTS77J-7"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKGFCFdjIHrTEIkP1SW7XZS"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:HV:AAAAIgAAAAKA9aApLTh1vmT09XY2QUFE"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKGLS6SNX3392oAZVdsDY7e"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKGLVzMEFSlGEmScGv3IwQX"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAASAAAAAHzq7csKJaKqn9OnYOfKiX6"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAASAAAAAHnmrnX6IbsdwWeobBV08h5"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:HV:AAAAHgAAAAKFx6I9RIqCgq6qZo5_3Sm_"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAHgAAAAKFx5-lS1vZoJsLLU09_rx7"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAHgAAAAKFx56ZQTKjSxeEs5-t_OKY"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAHgAAAAKFx5v-Owo084ziAtVeMHd9"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKGLXXdmHSirvjlUB7uhLsF"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKGLSAiSyvNsU2fK7o2ghqk"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKGLQD4v8QdYoge9BODkuoA"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKGLLN1TcaeH0aD3vhnCj8J"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKGK_-i8wkww-dfHuMkGOyg"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKGK_K1sSuVL7JLToyWAWTD"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKGFDSa0YuHd7bpvp32Jpe7"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKEkPZKF3tQ1zGkr-GZiZ6U"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:HV:AAAAJAAAAAKEkOO8h3DHWwGSCbhZv3P_"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:HV:AAAAJAAAAAKEj-cpRPl4DrA-3RV9TIVK"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKEj9gcxWbuadl1jWDk5SFL"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:WB:AAAAJAAAAAKEj8IFfAOMHKcLCcL_2FQr"
+        },
+        {
+            "type": "war",
+            "link": "https://link.clashofclans.com/en/?action=OpenLayout&id=TH10:HV:AAAAJAAAAAKEj6y-iF0AigjFB8CvTW8A"
+        }
+    ]
+}
