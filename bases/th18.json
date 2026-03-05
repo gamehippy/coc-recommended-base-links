@@ -1,0 +1,17 @@
+{
+ "townhall": 18,
+ "recommended_bases": [
+  {
+   "type": "war",
+   "link": "https://link.clashofclans.com/?action=OpenLayout&id=TH18AAA"
+  },
+  {
+   "type": "legend",
+   "link": "https://link.clashofclans.com/?action=OpenLayout&id=TH18BBB"
+  },
+  {
+   "type": "farming",
+   "link": "https://link.clashofclans.com/?action=OpenLayout&id=TH18CCC"
+  }
+ ]
+}
